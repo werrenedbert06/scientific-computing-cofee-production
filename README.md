@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project applies scientific computing and numerical methods to analyze
-EGIER's monthly bag production data from January 2018 to December 2030.
+monthly coffee production data from January 2018 to December 2030.
 
 The analysis focuses on modeling the production growth pattern, validating
 the selected model through Taylor Series approximation, determining when
